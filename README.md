@@ -1,11 +1,11 @@
 
 # arduino-espotafile-plugin
-Arduino plugin for creating ESP8266 upgrade files via OTA. File need to be uploaded via web on SPIFFS
+Arduino plugin for creating ESP8266 upgrade files via OTA. File need to be uploaded via web on SPIFFS<br>
 Tested with the following Arduino IDE versions: 1.8.8
 
 ## Installation
 - Make sure you use one of the supported versions of Arduino IDE and have ESP8266 core installed.
-- Download the tool archive from [releases page](https://github.com/SmartBlug/arduino-espota-plugin/releases/latest).
+- Download the tool archive from [releases page](https://github.com/SmartBlug/arduino-espotafile-plugin/releases/latest).
 - Unpack the tool into `tools` directory (the path will look like `<sketchbook directory>/tools/ESP8266OTAFile/tool/esp8266OTAFile.jar)`.
 - Restart Arduino IDE. 
 
